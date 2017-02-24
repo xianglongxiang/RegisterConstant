@@ -1,0 +1,19 @@
+{
+  "name": "constatnt-define",
+  "version": "1.0.0",
+  "description": "Constants for your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xianglongxiang/constant.git"
+  },
+  "author": "xianglongxiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xianglongxiang/constant/issues"
+  },
+  "homepage": "https://github.com/xianglongxiang/constant#readme"
+}
